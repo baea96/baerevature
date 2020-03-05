@@ -7,7 +7,7 @@ import org.junit.Test;
 public class MyTest {
 	@Test
 	public void test() {
-		assertEquals("True is True.", true, true);
+		assertEquals("True is any True.", true, true);
 	}
 
 }
